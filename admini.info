@@ -1,0 +1,5 @@
+name = Admini
+description = .
+package = Core
+version = 1.x-dev
+core = 7.x
